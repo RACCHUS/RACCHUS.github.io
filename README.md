@@ -1,1 +1,1 @@
-My somewhat personal website: [RACCHUS.github.io]
+My somewhat personal website: [racchus.github.io](https://racchus.github.io/)
